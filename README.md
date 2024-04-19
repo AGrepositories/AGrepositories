@@ -9,7 +9,7 @@
 
 ⚛️ So go ahead and use them for your work!
 
-### Extending the repository
+### Extending the repository 💻
 
 ⚗️ This is not the end! Feel free to modify these existing scripts, depending on your usage of the script or even to improve them.
 
