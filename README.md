@@ -1,3 +1,5 @@
+<img src="https://socialify.git.ci/wei/socialify/image?description=1&font=Raleway&issues=1&language=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Light" alt="socialify" width="640" height="320" />
+
 ### Hi there Aikens lab mates👋
 ### This is the GitHub profile for our research group, The Aikens Research Laboratory 🧪👩🏻‍🔬👨🏻‍🔬🖥️
 
