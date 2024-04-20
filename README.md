@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Aikens lab mates👋
 ### This is the GitHub profile for our research group, The Aikens Research Laboratory 🧪👩🏻‍🔬👨🏻‍🔬🖥️
 
 📁 Here you'll be able to find some useful scripts that can accelerate your research process!
