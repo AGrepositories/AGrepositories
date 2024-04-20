@@ -13,4 +13,6 @@
 
 ⚗️ This is not the end! Feel free to modify these existing scripts, depending on your usage of the script or even to improve them.
 
-💡 Please feel free to create a new repository if you have any other scripts that our group could find useful.
+💡 Please feel free to create new repositories for any other scripts that you created!
+
+🙋🏻‍♂️ Also, do not forget to ask any questions related to the existing scripts. It will definitely help on improving them!
