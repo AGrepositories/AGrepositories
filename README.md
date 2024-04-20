@@ -29,7 +29,7 @@ For Animated-Fluent-Emojis (https://github.com/Tarikul-Islam-Anik/Animated-Fluen
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" alt="Atom Symbol" width="16" height="16" /> So feel free to apply them to your projects!
 
-### Extending the repository 💻
+### Extending the repository <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="16" height="16" /> This is not the end! Feel free to modify these existing scripts, depending on your usage of the script or even to improve them.
 
