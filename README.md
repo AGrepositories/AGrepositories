@@ -1,4 +1,5 @@
-### Hi there Aikens lab mates👋
+### Hi there Aikens lab mates👋![4(1)](https://github.com/AGrepositories/AGrepositories/assets/152644996/7f83104e-fb86-49bb-ba65-9342bc005483)
+
 ### This is the GitHub profile for our research group, The Aikens Research Laboratory 🧪👩🏻‍🔬👨🏻‍🔬🖥️
 
 📁 Here you'll be able to find some useful scripts that can accelerate your research process!
