@@ -17,6 +17,6 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alembic.png" alt="Alembic" width="16" height="16" /> This is not the end! Feel free to modify these existing scripts, depending on your usage of the script or even to improve them.
 
-💡 Please feel free to create new repositories for any other scripts that you created!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="16" height="16" /> Please feel free to create new repositories for any other scripts that you created!
 
 🙋🏻‍♂️ Also, do not forget to ask any questions related to the existing scripts. It will definitely help on improving them!
