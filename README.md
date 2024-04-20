@@ -9,7 +9,7 @@
 
 💻 Given the wide range of software programs that our group uses, there are a number of approaches to analyze the result that they provide. Not only analyzing, trying to perform recurring calculations more efficiently can be sometimes challenging.
 
-🖥️ As a result, the scripts that are provided here can be adapted for a single task or even multiple tasks 😄!
+🖥️ As a result, the scripts that are provided here can be adapted for a single task or even multiple tasks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />!
 
 ⚛️ So go ahead and use them for your work!
 
