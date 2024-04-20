@@ -7,7 +7,7 @@
 
 📁 Here you'll be able to find some useful scripts that can accelerate your research process!
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Given the wide range of software programs that our group uses, there are a number of approaches to analyze the result that they provide. Not only analyzing, trying to perform recurring calculations more efficiently can be sometimes challenging.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="18" height="18" /> Given the wide range of software programs that our group uses, there are a number of approaches to analyze the result that they provide. Not only analyzing, trying to perform recurring calculations more efficiently can be sometimes challenging.
 
 🖥️ As a result, the scripts that are provided here can be adapted for a single task or even multiple tasks! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
 
