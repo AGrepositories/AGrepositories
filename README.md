@@ -12,7 +12,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="16" height="16" /> Therefore, some of those challenges can be overcome by using the scripts that are provided here. While some scripts are limited to a single software package, some can be applied to multiple applications! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" alt="Atom Symbol" width="16" height="16" /> So go ahead and use them for your work!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" alt="Atom Symbol" width="16" height="16" /> So feel free to apply them to your projects!
 
 ### Extending the repository 💻
 
