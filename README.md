@@ -1,10 +1,27 @@
 ### Hi there Aikens lab mates👋!
 
-<!---Copyright (c) 2020 Wei He--->
+<!---Copyright (c) 2020 Wei He
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.--->
+
 <p align="center">
 <img src="https://socialify.git.ci/AGrepositories/AGrepositories/image?description=1&descriptionEditable=This%20is%20the%20GitHub%20profile%20for%20our%20research%20group%2C%0AThe%20Aikens%20Research%20Laboratory%20%F0%9F%96%A5%EF%B8%8F%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%94%AC%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%94%AC%F0%9F%A7%AA&font=KoHo&name=1&pattern=Circuit%20Board&theme=Dark" alt="AGrepositories" width="640" height="320"/>
 </p>
-<!---Copyright (c) Microsoft Corporation. For Animated-Fluent-Emojis (https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis?tab=readme-ov-file) --->
+
+<!---Copyright (c) Microsoft Corporation.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+For Animated-Fluent-Emojis (https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis?tab=readme-ov-file) --->
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="16" height="16" /> Here you'll be able to find some useful scripts that can accelerate your research process!
 
