@@ -36,3 +36,6 @@ For Animated-Fluent-Emojis (https://github.com/Tarikul-Islam-Anik/Animated-Fluen
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="16" height="16" /> Please feel free to create new repositories for any other scripts that you create!
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Person Raising Hand Light Skin Tone" width="18" height="18" /> Also, do not forget to ask any questions related to the existing scripts. It will definitely help on improving them!
+
+https://github.com/AGrepositories/AGrepositories/assets/152644996/a42ddcd3-12ff-4942-b533-883a35df9eaf
+
